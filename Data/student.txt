@@ -1,0 +1,4 @@
+STU01_Le Son Tung_1/1/2005_Ha Noi_Male_CL01
+STU02_Dang Thai Hoa_2/2/2001_Nghe An_Female_CL02
+STU03_Le Van Hoang_3/3/2003_Quang Tri_Gay_CL02
+STU04_Nguyen Ngoc Son_4/4/2004_Thanh Hoa_Lesbian_CL01
